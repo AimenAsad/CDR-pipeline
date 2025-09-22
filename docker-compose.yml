@@ -1,0 +1,18 @@
+version: "3.9"
+
+services:
+  cdr-postgres:
+    image: postgres:14
+    container_name: cdr-postgres
+    restart: always
+    environment:
+      POSTGRES_USER: postgres
+      POSTGRES_PASSWORD: postgres
+      POSTGRES_DB: cdr_db
+    ports:
+      - "5433:5432"  
+    volumes:
+      - cdr_pgdata:/var/lib/postgresql/data
+
+volumes:
+  cdr_pgdata:
