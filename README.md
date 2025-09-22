@@ -35,8 +35,8 @@ High-Value Customers → Top 10 customers by charges
 Trend Monitoring → Usage over time (if multiple snapshots available)
 
 
-(images/churn_overview.png)
-(images/usage_comparison.png)
+(images/dashboard.png)
+(images/docker.png)
 
 ### Insights
 Customers who churned made ~20% more service calls than loyal customers.
