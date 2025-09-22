@@ -38,7 +38,7 @@ Churn Overview → Churn rate % and total churners vs non-churners<br>
 Usage Behavior by Churn → Avg day/eve/night/intl mins grouped by churn_flag<br>
 Customer Service Calls → Avg calls for churners vs non-churners<br>
 High-Value Customers → Top 10 customers by charges<br>
-Trend Monitoring → Usage over time (if multiple snapshots available)
+Trend Monitoring → Usage over time 
 
 ![Dashboard Screenshot](images/dashboard.png)
 ![Docker Setup](images/docker.png)
