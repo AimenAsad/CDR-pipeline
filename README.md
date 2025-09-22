@@ -41,8 +41,8 @@ High-Value Customers → Top 10 customers by charges<br>
 Trend Monitoring → Usage over time (if multiple snapshots available)
 
 
-(images/dashboard.png)
-(images/docker.png)
+!(images/dashboard.png)
+!(images/docker.png)
 
 ---
 
